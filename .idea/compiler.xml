@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="qy110-project-zuul" />
+        <module name="qy110-project-provider-system" />
+        <module name="qy110-project-mapper" />
+        <module name="qy110-project-eureka-7003" />
+        <module name="qy110-project-eureka-7002" />
+        <module name="qy110-project-eureka-7001" />
+        <module name="qy110-project-consumer-system" />
+        <module name="qy110-project-model" />
+        <module name="qy110-project-consumer-backup" />
+        <module name="qy110-project-api" />
+        <module name="qy110-project-config" />
+        <module name="qy110-project-provider-backup" />
+        <module name="qy110-project-service" />
+        <module name="qy110-project-common" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="qy110-project" target="1.8" />
+      <module name="qy110-project-api" target="1.8" />
+      <module name="qy110-project-common" target="1.8" />
+      <module name="qy110-project-config" target="1.8" />
+      <module name="qy110-project-consumer-backup" target="1.8" />
+      <module name="qy110-project-consumer-management" target="1.8" />
+      <module name="qy110-project-consumer-system" target="1.8" />
+      <module name="qy110-project-eureka-7001" target="1.8" />
+      <module name="qy110-project-eureka-7002" target="1.8" />
+      <module name="qy110-project-eureka-7003" target="1.8" />
+      <module name="qy110-project-eureka-management" target="1.8" />
+      <module name="qy110-project-management" target="1.8" />
+      <module name="qy110-project-mapper" target="1.8" />
+      <module name="qy110-project-model" target="1.8" />
+      <module name="qy110-project-provider-backup" target="1.8" />
+      <module name="qy110-project-provider-management" target="1.8" />
+      <module name="qy110-project-provider-system" target="1.8" />
+      <module name="qy110-project-service" target="1.8" />
+      <module name="qy110-project-zuul" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
